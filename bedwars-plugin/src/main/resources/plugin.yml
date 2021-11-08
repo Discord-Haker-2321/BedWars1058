@@ -1,4 +1,4 @@
-name: BedWars1058
+name: OG Bedwars
 api-version: '1.13'
 version: ${gitVer}${project.version}
 author: andrei1058
